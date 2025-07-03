@@ -1,11 +1,28 @@
-     # Java/Spring Boot
-     target/
-     *.jar
-     *.class
-     # IDE
-     .idea/
-     *.iml
-     # Docker
-     *.env
-     # MySQL
-     mysql-data/
+# === Java / Spring Boot ===
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# === Logs ===
+*.log
+hs_err_pid*
+replay_pid*
+
+# === IDEs ===
+.idea/
+*.iml
+.mtj.tmp/  # Mobile Tools for Java
+
+# === Environment ===
+*.env  # Consider being specific, like `.env`, `app.env`
+
+# === Databases ===
+mysql-data/
+
+# === Archives / Packages ===
+*.zip
+*.tar.gz
+*.rar
