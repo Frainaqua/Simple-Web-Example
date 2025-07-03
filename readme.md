@@ -1,3 +1,5 @@
+#Simple-Web-Example
+
 ## Introduction
  - This project is used as a project for our students to use as a coding exercise.
 
