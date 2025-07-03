@@ -1,0 +1,11 @@
+     # Java/Spring Boot
+     target/
+     *.jar
+     *.class
+     # IDE
+     .idea/
+     *.iml
+     # Docker
+     *.env
+     # MySQL
+     mysql-data/
